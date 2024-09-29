@@ -31,13 +31,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 To decrypt files that have been previously encrypted, you can use the decryption functionality within the same src/ransomware.py script. Ensure you have the correct encryption key.
 1. Open the src/ransomware.py script in a text editor.
 2. Ensure you have the correct encryption key that was generated during the encryption process.
-3. Run the decryption command (you may need to implement the decryption functionality within the same script):
-## bash  
- python src/ransomware.py decrypt --key your_encryption_key
- 
- Replace your_encryption_key with the actual key you received after encryption.
-
-
+3. Run the decryption command (you may need to implement the decryption functionality within the same script)
+4. Replace your_encryption_key with the actual key you received after encryption.
 
 ## Disclaimer
 This project is intended solely for educational purposes to raise awareness about ransomware threats. *Do not use this code for any illegal activities*. The creators are not liable for any misuse or damages caused by this code.
