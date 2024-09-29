@@ -14,8 +14,8 @@ Your security is important to us. If you discover any security vulnerabilities i
 
 We will acknowledge your report within 48 hours and provide an estimated timeline for a fix. We appreciate your help in keeping the project secure!
 
-<div style="color:red; font-weight:bold;">
 ## Disclaimer
 
+<div style="color:red; font-weight:bold;">
 This project is intended for educational purposes only. Any misuse of this code is strictly prohibited.
 </div>
