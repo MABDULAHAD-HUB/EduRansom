@@ -24,6 +24,21 @@ This project serves as an *educational demonstration* of ransomware behavior, sh
 ## Installation
 For detailed installation instructions, please see [INSTALL.md](INSTALL.md).
 
+## Setup Instructions
+
+Before running the ransomware script, ensure you have completed the following steps:
+
+1. *Gmail 2-Step Verification*:
+   - Enable 2-step verification on your Gmail account. This adds an extra layer of security to your account.
+   - To enable it, go to your Google Account settings, navigate to the *Security* section, and follow the instructions for setting up 2-step verification.
+
+2. *Generate App Password*:
+   - After enabling 2-step verification, create an app password specifically for this project.
+   - Go to the *Security* section of your Google Account.
+   - Under "Signing in to Google," find "App passwords." Select it, and you may need to sign in again.
+   - Choose the app (Mail) and device (Windows, macOS, etc.) for which you need the password and click *Generate*.
+   - Note the generated password, as it will be used in the script.
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
