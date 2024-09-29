@@ -118,7 +118,7 @@ key = bytes.fromhex('hexadecimal_key')
 
 # Define the folder you want to decrypt
 
-target_folder = "/home/"  # Replace with the actual folder path
+target_folder = "/path/to/your/folder"  # Replace with the actual folder path
 
 
 
