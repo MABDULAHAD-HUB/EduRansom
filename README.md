@@ -1,4 +1,7 @@
 # Ransomware Project
+
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## Overview
 This project serves as an *educational demonstration* of ransomware behavior, showcasing the process of encrypting and decrypting files. Its purpose is to educate about the risks associated with ransomware attacks and to promote better cybersecurity practices.
 
@@ -8,8 +11,6 @@ This project serves as an *educational demonstration* of ransomware behavior, sh
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
 - [License](#license)
 - [Disclaimer](#disclaimer)
 - [Contributing](#contributing)
@@ -21,13 +22,22 @@ This project serves as an *educational demonstration* of ransomware behavior, sh
 - *Ransom Note Display*: Notify users of the encryption and provide instructions on how to obtain the decryption key.
 
 ## Installation
-To run this project, you'll need to have Python 3 installed on your system. Follow these steps to set it up:
+For detailed installation instructions, please see [INSTALL.md](INSTALL.md).
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/my-ransomware-project.git
-   cd my-ransomware-project
-   
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Disclaimer
+This project is intended solely for educational purposes to raise awareness about ransomware threats. *Do not use this code for any illegal activities*. The creators are not liable for any misuse or damages caused by this code.
 
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or features, please open an issue or submit a pull request. Ensure your contributions align with the educational intent of this project.
 
+## Contact
+For questions, feedback, or suggestions, please contact:
+- *Your Name* - [your.email@example.com](mailto:your.email@example.com)
+- *GitHub Profile*: [yourusername](https://github.com/yourusername)
+
+---
+
+Thank you for visiting this project! Stay safe and secure online.
