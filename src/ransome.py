@@ -184,7 +184,7 @@ def encrypt_folder(folder_path):
 
 # Define the folder you want to test on (manual input)
 
-target_folder = "/home/"  # Replace with the folder path you want to encrypt
+target_folder = "/path/to/your/folder"  # Replace with the folder path you want to encrypt
 
 
 
