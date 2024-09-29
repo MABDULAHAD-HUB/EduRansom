@@ -1,6 +1,21 @@
 # Ransomware Project
 
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/MABDULAHAD-HUB?style=social)
+![Issues](https://img.shields.io/github/issues/yourusername/MABDULAHAD-HUB)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+
+# MABDULAHAD-HUB
+
+...
+
+## Badges
+
+This project uses the following badges:
+- Stars on GitHub
+- Open issues count
+- License type
+- Python version compatibility
 
 ## Overview
 This project serves as an *educational demonstration* of ransomware behavior, showcasing the process of encrypting and decrypting files. Its purpose is to educate about the risks associated with ransomware attacks and to promote better cybersecurity practices.
