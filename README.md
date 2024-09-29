@@ -50,7 +50,8 @@ To decrypt files that have been previously encrypted, you can use the decryption
 4. Replace your_encryption_key with the actual key you received after encryption.
 
 ## Disclaimer
-This project is intended solely for educational purposes to raise awareness about ransomware threats. *Do not use this code for any illegal activities*. The creators are not liable for any misuse or damages caused by this code.
+This project is intended solely for educational purposes to raise awareness about ransomware threats. *Do not use this code for any illegal activities*. The creators are not liable for any misuse or damages caused by this code. [SECURITY.md](SECURITY.md).
+
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or features, please open an issue or submit a pull request. Ensure your contributions align with the educational intent of this project.please see [CONTRIBUTING.md](CONTRIBUTING.md).
