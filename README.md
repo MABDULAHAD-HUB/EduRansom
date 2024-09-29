@@ -1,13 +1,12 @@
 # Ransomware Project
 
-![GitHub Repo stars](https://img.shields.io/github/stars/MABDULAHAD-HUB?style=social)
+
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
 ## Badges
 
 This project uses the following badges:
-- Stars on GitHub
 - License type
 - Python version compatibility
   
