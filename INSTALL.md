@@ -4,8 +4,8 @@ To run this project, you'll need to have Python 3 installed on your system. Foll
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MABDULAHAD-HUB/my-ransomware-project.git
-   cd my-ransomware-project
+   git clone https://github.com/MABDULAHAD-HUB/ransomware-project.git
+   cd ransomware-project
    
 2. Install the required packages:
    Run the following command to install the packages listed in requirements.txt
