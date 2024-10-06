@@ -9,4 +9,4 @@ Thank you for considering contributing to MABDULAHAD-HUB! We welcome contributio
 2. *Clone Your Fork*: Use the following command to clone your forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/MABDULAHAD-HUB.git
+   git clone https://github.com/MABDULAHAD-HUB/MABDULAHAD-HUB.git
