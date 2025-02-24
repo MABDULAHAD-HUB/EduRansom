@@ -4,11 +4,6 @@
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
-## Badges
-
-This project uses the following badges:
-- License type
-- Python version compatibility
   
 ## Overview
 This project serves as an educational demonstration of ransomware behavior, showcasing the process of encrypting and decrypting files. Its purpose is to educate about the risks associated with ransomware attacks and to promote better cybersecurity practices.
