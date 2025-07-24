@@ -45,7 +45,7 @@
 
 1. **Clone the Repository**
    ```bash
-   https://github.com/MABDULAHAD-HUB/EduRansom.git
+   git clone https://github.com/MABDULAHAD-HUB/EduRansom.git
    cd EduRansom
    ```
 
@@ -68,18 +68,25 @@
 ### 🏠 **Mode Selection Interface**
 *Choose between Attacker and Victim perspectives*
 
+![Mode Selection](screenshots/mode_selection.png)
+
 ### 💀 **Attacker Control Panel**
 *Professional attack deployment interface with real-time monitoring*
+
+![Attacker Mode](screenshots/attacker_mode.png)
 
 ### 😰 **Victim Recovery Interface**
 *Experience the psychological pressure of ransomware attacks*
 
+![Victim Mode](screenshots/victim_mode.png)
+
 ### 🎬 **Fullscreen Ransom Note**
 *Cinema-quality 1920x1080 threat presentation*
 
+![Ransom Note](screenshots/ransom_note.png)
+---
 </div>
 
----
 
 
 ### 🔄 **Step-by-Step Process**
