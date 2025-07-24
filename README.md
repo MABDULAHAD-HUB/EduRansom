@@ -45,7 +45,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/EduRansom.git
+   https://github.com/MABDULAHAD-HUB/EduRansom.git
    cd EduRansom
    ```
 
