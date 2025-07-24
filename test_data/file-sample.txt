@@ -1,0 +1,2 @@
+This is a sample file for EduRansom testing.
+You can add more files to this folder to simulate ransomware encryption and decryption.
